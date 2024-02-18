@@ -2,7 +2,7 @@
 
 Parsing Google Takeout Location History Exports or Google Semantic Location History Warrant Return Data in a forensic manner.
 
-More details within our blog post, available at 
+More details within our blog post, available at https://metadataperspective.com/2024/02/17/google-location-history-data-parser/
 
 ## Downloading
 
