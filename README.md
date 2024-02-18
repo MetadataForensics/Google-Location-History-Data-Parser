@@ -2,6 +2,8 @@
 
 Parsing Google Takeout Location History Exports or Google Semantic Location History Warrant Return Data in a forensic manner.
 
+More details within our blog post, available at 
+
 ## Downloading
 
 Navigate to the Google Location History Data Parser Setup.exe above. Select "More file actions" on the right, shown by an "..." icon, and choose "Download".
