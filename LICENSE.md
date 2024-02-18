@@ -1,4 +1,4 @@
-Copyright (c) 2023 Metadata Forensics (Metadata Forensics, LLC, @5754n6, metadataforensics.com). All rights reserved.
+Copyright (c) 2024 Metadata Forensics (Metadata Forensics, LLC, @5754n6, metadataforensics.com). All rights reserved.
 
       This software is provided "as is," without warranty of any kind,
       express or implied.  In no event shall the author or contributors
