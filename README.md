@@ -20,4 +20,6 @@ Run the application, browse to either your input .zip file or your folder contai
 
 ## Acknowledgement
 
+We would like to extend our gratitude, and provide reference to, the Returns Logs Events And Properties Parser (RLEAPP) for inspiration to this project! Further thanks to Alexis Brignoni (@abrignoni) the creator of RLEAPP and all the LEAPP projects! RLEAPP supports Google Location History (Timeline) data and is a great resource for verifying results. Available here: https://github.com/abrignoni/rleapp
+
 This application was created by James R. McGee, Digital Forensic Examiner, for use by the Digital Forensic Incident Response Community. James and Metadata Forensics, LLC, are proud to give back to our great Community.
