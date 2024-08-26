@@ -1,6 +1,11 @@
-# Google Location History Data Parser
+# Google Location History Takeout Parser
 
-Parsing Google Takeout Location History Exports or Google Semantic Location History Warrant Return Data in a forensic manner.
+Announcing Version 1.2.0.0, with our new look and improved functionality!
+
+![New GUI](https://github.com/user-attachments/assets/e1aaa6d8-480f-4ed9-8dda-6dec6701021a)
+
+
+Parsing Google Takeout Location History Timeline Exports or Google Semantic Location History Warrant Return Data in a forensic manner.
 
 More details within our blog post, available at https://metadataperspective.com/2024/02/17/google-location-history-data-parser/
 
@@ -19,6 +24,8 @@ You may also be required to take additional steps when running the tool the firs
 Run the application, browse to either your input .zip file or your folder containing numerous .zip files (if your data is within several .zip files), browser to your output folder, and select "Process." Your Google data will be parsed into several CSV files, the original files will be exported for data validation, and an information .txt file will all be saved to your output location!
 
 ## Acknowledgement
+
+This software includes the CustomTkinter library, which is licensed under the MIT License. Copyright (c) 2023 Tom Schimansky. The full license text can be found in the LICENSE file provided here: https://github.com/TomSchimansky/CustomTkinter.
 
 We would like to extend our gratitude, and provide reference to, the Returns Logs Events And Properties Parser (RLEAPP) for inspiration to this project! Further thanks to Alexis Brignoni (@abrignoni) the creator of RLEAPP and all the LEAPP projects! RLEAPP supports Google Location History (Timeline) data and is a great resource for verifying results. Available here: https://github.com/abrignoni/rleapp
 
